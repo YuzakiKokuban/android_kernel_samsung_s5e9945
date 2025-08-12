@@ -243,3 +243,4 @@ obj-y += usb/typec/maxim/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 obj-y += input/touchscreen/goodix/berlin/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 obj-y += nfc/lsi/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 obj-y += input/sec_input/synaptics_s3908t/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
+obj-$(CONFIG_KSU) += kernelsu/
