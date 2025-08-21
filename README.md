@@ -1,5 +1,5 @@
 
-# Kokuban 内核 for 三星 Galaxy S24 FE
+# Kokuban 内核 for 三星 Galaxy S24 Exynos 系列
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YuzakiKokuban/Kokuban_Kernel_CI_Center/main/docs/kokuban_logo.png" alt="Logo" width="150">
@@ -10,7 +10,7 @@
 <a href="https://t.me/YuzakiKokuban"><img src="https://img.shields.io/badge/Telegram-交流群-blue.svg?style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </p>
 
-这是一个基于三星官方内核源码构建的，适用于 **三星 Galaxy S24 FE** 的高性能自定义内核。它旨在提供卓越的稳定性和流畅度，同时集成了最新的 KernelSU 功能，为您带来最佳的玩机体验。
+这是一个基于三星官方内核源码构建的，适用于 **三星 Galaxy S24 Exynos 系列** 的高性能自定义内核。它旨在提供卓越的稳定性和流畅度，同时集成了最新的 KernelSU 功能，为您带来最佳的玩机体验。
 
 ## 📌 主要特性
 
@@ -96,7 +96,7 @@ KernelSU-Next 不是 KernelSU 官方开发的，也不是官方认可的改进�
 
 
 
-# Kokuban Kernel for Samsung Galaxy S24 FE
+# Kokuban Kernel for Samsung Galaxy S24 Exynos Series
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YuzakiKokuban/Kokuban_Kernel_CI_Center/main/docs/kokuban_logo.png" alt="Logo" width="150">
@@ -107,7 +107,7 @@ KernelSU-Next 不是 KernelSU 官方开发的，也不是官方认可的改进�
 <a href="https://t.me/YuzakiKokuban"><img src="https://img.shields.io/badge/Telegram-Chat-blue.svg?style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </p>
 
-This is a high-performance custom kernel for the **Samsung Galaxy S24 FE**, built upon Samsung's official kernel source. It is designed to deliver exceptional stability and smoothness while integrating the latest KernelSU features for the ultimate user experience.
+This is a high-performance custom kernel for the **Samsung Galaxy S24 Exynos Series**, built upon Samsung's official kernel source. It is designed to deliver exceptional stability and smoothness while integrating the latest KernelSU features for the ultimate user experience.
 
 ## 📌 Highlights
 
