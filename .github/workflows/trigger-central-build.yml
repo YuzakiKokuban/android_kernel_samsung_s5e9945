@@ -18,6 +18,6 @@ jobs:
           event-type: build-kernel
           client-payload: >-
             {
-              "project": "s24fe_s5e9945",
+              "project": "s24_s5e9945",
               "branch": "${{ github.ref_name }}"
             }
